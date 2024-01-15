@@ -1,4 +1,4 @@
-# catcord
+# alligatorcord
 API-based cat reel for your Discord server.
 
 ## Installation
@@ -11,9 +11,11 @@ pip3 install -r requirements
 Alot of people forget to add the bot token. It's located under `config.py` and needs to be replaced before the server can run, otherwise there will be an error.
 
 ## Running
-From the command line, change into the directory of catcord and run:
+From the command line, change into the directory of alligatorcord and run:
 ```
 py app.py
 ```
 
 Please report any nextcord crashes to nextcord, not me.
+
+this is a joke I did nothing the owner (liquidsquid) told me to do this
